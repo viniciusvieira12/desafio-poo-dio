@@ -1,3 +1,20 @@
+## 📁 Sobre este repositório
+
+Este repositório é um **fork do projeto original do curso de POO da DIO (Digital Innovation One)**, utilizado como base para a implementação do projeto desse desafio.
+
+A branch `main` foi mantida **exatamente como no repositório original**, servindo como referência da estrutura e implementação fornecida pela autora.
+
+A partir dessa `main`, criei uma branch separada chamada `viniciusvieira12-desafio-dio-poo`, onde:
+
+- Substituí pelos **arquivos do projeto que implementei conforme a referencia**, como parte do exercício proposto. Mantendo a branch main como referencia.
+
+---
+
+### ✅ Estrutura das branches
+
+- `main`: Cópia fiel do projeto original da DIO (inalterado).
+- `viniciusvieira12-desafio-dio-poo`: Branch criada para adicionar os arquivos do projeto que fiz implementando a referencia.
+
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
 <p align="center"> 📜 <a href="https://academiapme-my.sharepoint.com/:p:/g/personal/camila_cavalcante_dio_me/EaXyYOjBaFpZjkxhexMo5EcBKMEEAI5t5aHlsTjnBQJlUw?e=nxdB6C"> SLIDES APRESENTADO NO PROJETO </a> 📜 </P>
